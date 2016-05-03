@@ -1,0 +1,144 @@
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini Project - Chatime\Mini Project - Chatime\bin\Debug\Mini Project - Chatime.exe.config
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini Project - Chatime\Mini Project - Chatime\bin\Debug\Mini Project - Chatime.exe
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini Project - Chatime\Mini Project - Chatime\bin\Debug\Mini Project - Chatime.pdb
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.csprojResolveAssemblyReference.cache
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.Properties.Resources.resources
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.csproj.GenerateResource.Cache
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.exe
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.pdb
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmCashier.resources
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmLogin.resources
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmCustomize.resources
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmSplashScreen.resources
+C:\Users\thispc\Desktop\Advance Programming\Mini Project - Chatime\Mini Project - Chatime\bin\Debug\Mini Project - Chatime.exe.config
+C:\Users\thispc\Desktop\Advance Programming\Mini Project - Chatime\Mini Project - Chatime\bin\Debug\Mini Project - Chatime.exe
+C:\Users\thispc\Desktop\Advance Programming\Mini Project - Chatime\Mini Project - Chatime\bin\Debug\Mini Project - Chatime.pdb
+C:\Users\thispc\Desktop\Advance Programming\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmCashier.resources
+C:\Users\thispc\Desktop\Advance Programming\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmLogin.resources
+C:\Users\thispc\Desktop\Advance Programming\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmCustomize.resources
+C:\Users\thispc\Desktop\Advance Programming\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.Properties.Resources.resources
+C:\Users\thispc\Desktop\Advance Programming\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmSplashScreen.resources
+C:\Users\thispc\Desktop\Advance Programming\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.csproj.GenerateResource.Cache
+C:\Users\thispc\Desktop\Advance Programming\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.exe
+C:\Users\thispc\Desktop\Advance Programming\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.pdb
+C:\Users\thispc\Desktop\Advance Programming\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.csprojResolveAssemblyReference.cache
+C:\Users\thispc\Desktop\Advance Programming\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frm4.resources
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime V.2\Mini Project - Chatime\Mini Project - Chatime\bin\Debug\Mini Project - Chatime.exe.config
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime V.2\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.exe
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime V.2\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.pdb
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime V.2\Mini Project - Chatime\Mini Project - Chatime\bin\Debug\Mini Project - Chatime.exe
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime V.2\Mini Project - Chatime\Mini Project - Chatime\bin\Debug\Mini Project - Chatime.pdb
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime V.2\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.csprojResolveAssemblyReference.cache
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime V.2\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmCashier.resources
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime V.2\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmLogin.resources
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime V.2\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.Properties.Resources.resources
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime V.2\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmSplashScreen.resources
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime V.2\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.csproj.GenerateResource.Cache
+C:\Users\thispc\Desktop\Advance Programming\esimen\Mini-Project-Chatime V.2\Mini Project - Chatime\Mini Project - Chatime\bin\Debug\Mini Project - Chatime.exe.config
+C:\Users\thispc\Desktop\Advance Programming\esimen\Mini-Project-Chatime V.2\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.exe
+C:\Users\thispc\Desktop\Advance Programming\esimen\Mini-Project-Chatime V.2\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.pdb
+C:\Users\thispc\Desktop\Advance Programming\esimen\Mini-Project-Chatime V.2\Mini Project - Chatime\Mini Project - Chatime\bin\Debug\Mini Project - Chatime.exe
+C:\Users\thispc\Desktop\Advance Programming\esimen\Mini-Project-Chatime V.2\Mini Project - Chatime\Mini Project - Chatime\bin\Debug\Mini Project - Chatime.pdb
+C:\Users\thispc\Desktop\Advance Programming\esimen\Mini-Project-Chatime V.2\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.csprojResolveAssemblyReference.cache
+C:\Users\thispc\Desktop\Advance Programming\esimen\Mini-Project-Chatime V.2\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmCashier.resources
+C:\Users\thispc\Desktop\Advance Programming\esimen\Mini-Project-Chatime V.2\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmLogin.resources
+C:\Users\thispc\Desktop\Advance Programming\esimen\Mini-Project-Chatime V.2\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.Properties.Resources.resources
+C:\Users\thispc\Desktop\Advance Programming\esimen\Mini-Project-Chatime V.2\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmSplashScreen.resources
+C:\Users\thispc\Desktop\Advance Programming\esimen\Mini-Project-Chatime V.2\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.csproj.GenerateResource.Cache
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.3\Mini-Project-Chatime V.2\Mini Project - Chatime\Mini Project - Chatime\bin\Debug\Mini Project - Chatime.exe.config
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.3\Mini-Project-Chatime V.2\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.exe
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.3\Mini-Project-Chatime V.2\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.pdb
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.3\Mini-Project-Chatime V.2\Mini Project - Chatime\Mini Project - Chatime\bin\Debug\Mini Project - Chatime.exe
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.3\Mini-Project-Chatime V.2\Mini Project - Chatime\Mini Project - Chatime\bin\Debug\Mini Project - Chatime.pdb
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.3\Mini-Project-Chatime V.2\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.csprojResolveAssemblyReference.cache
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.3\Mini-Project-Chatime V.2\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmCashier.resources
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.3\Mini-Project-Chatime V.2\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmLogin.resources
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.3\Mini-Project-Chatime V.2\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.Properties.Resources.resources
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.3\Mini-Project-Chatime V.2\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmSplashScreen.resources
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.3\Mini-Project-Chatime V.2\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.csproj.GenerateResource.Cache
+C:\Users\thispc\Desktop\Advance Programming\esimen\Mini Project - Chatime\Mini Project - Chatime\bin\Debug\Mini Project - Chatime.exe.config
+C:\Users\thispc\Desktop\Advance Programming\esimen\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.exe
+C:\Users\thispc\Desktop\Advance Programming\esimen\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.pdb
+C:\Users\thispc\Desktop\Advance Programming\esimen\Mini Project - Chatime\Mini Project - Chatime\bin\Debug\Mini Project - Chatime.exe
+C:\Users\thispc\Desktop\Advance Programming\esimen\Mini Project - Chatime\Mini Project - Chatime\bin\Debug\Mini Project - Chatime.pdb
+C:\Users\thispc\Desktop\Advance Programming\esimen\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.csprojResolveAssemblyReference.cache
+C:\Users\thispc\Desktop\Advance Programming\esimen\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmCashier.resources
+C:\Users\thispc\Desktop\Advance Programming\esimen\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmLogin.resources
+C:\Users\thispc\Desktop\Advance Programming\esimen\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.Properties.Resources.resources
+C:\Users\thispc\Desktop\Advance Programming\esimen\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmSplashScreen.resources
+C:\Users\thispc\Desktop\Advance Programming\esimen\Mini Project - Chatime\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.csproj.GenerateResource.Cache
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.4\Mini Project - Chatime V.3\Mini Project - Chatime\bin\Debug\Mini Project - Chatime.exe.config
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.4\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.exe
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.4\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.pdb
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.4\Mini Project - Chatime V.3\Mini Project - Chatime\bin\Debug\Mini Project - Chatime.exe
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.4\Mini Project - Chatime V.3\Mini Project - Chatime\bin\Debug\Mini Project - Chatime.pdb
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.4\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.csprojResolveAssemblyReference.cache
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.4\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmCashier.resources
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.4\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmLogin.resources
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.4\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.Properties.Resources.resources
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.4\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmSplashScreen.resources
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.4\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.csproj.GenerateResource.Cache
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.4\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.FrmPayment.resources
+C:\Users\thispc\Desktop\Advance Programming\esimen\New folder\Mini Project - Chatime V.3\Mini Project - Chatime\bin\Debug\Mini Project - Chatime.exe.config
+C:\Users\thispc\Desktop\Advance Programming\esimen\New folder\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.exe
+C:\Users\thispc\Desktop\Advance Programming\esimen\New folder\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.pdb
+C:\Users\thispc\Desktop\Advance Programming\esimen\New folder\Mini Project - Chatime V.3\Mini Project - Chatime\bin\Debug\Mini Project - Chatime.exe
+C:\Users\thispc\Desktop\Advance Programming\esimen\New folder\Mini Project - Chatime V.3\Mini Project - Chatime\bin\Debug\Mini Project - Chatime.pdb
+C:\Users\thispc\Desktop\Advance Programming\esimen\New folder\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.csprojResolveAssemblyReference.cache
+C:\Users\thispc\Desktop\Advance Programming\esimen\New folder\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmCashier.resources
+C:\Users\thispc\Desktop\Advance Programming\esimen\New folder\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmLogin.resources
+C:\Users\thispc\Desktop\Advance Programming\esimen\New folder\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.Properties.Resources.resources
+C:\Users\thispc\Desktop\Advance Programming\esimen\New folder\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmSplashScreen.resources
+C:\Users\thispc\Desktop\Advance Programming\esimen\New folder\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.csproj.GenerateResource.Cache
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\bin\Debug\Mini Project - Chatime.exe.config
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.exe
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.pdb
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\bin\Debug\Mini Project - Chatime.exe
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\bin\Debug\Mini Project - Chatime.pdb
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.csprojResolveAssemblyReference.cache
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmCashier.resources
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmLogin.resources
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.Properties.Resources.resources
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmSplashScreen.resources
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.csproj.GenerateResource.Cache
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.Receiptcs.resources
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\bin\Debug\itextsharp.dll
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\bin\Debug\itextsharp.pdfa.dll
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\bin\Debug\itextsharp.xtra.dll
+C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\bin\Debug\itextsharp.xml
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\bin\Debug\Mini Project - Chatime.exe.config
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.exe
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.pdb
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\bin\Debug\Mini Project - Chatime.exe
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\bin\Debug\Mini Project - Chatime.pdb
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\bin\Debug\itextsharp.dll
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\bin\Debug\itextsharp.pdfa.dll
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\bin\Debug\itextsharp.xtra.dll
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\bin\Debug\itextsharp.xml
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmCashier.resources
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmLogin.resources
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.Receiptcs.resources
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmSplashScreen.resources
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\bin\Debug\ChatimeDB.mdf
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini-Project-Chatime-V.5\Mini Project - Chatime V.3\Mini Project - Chatime\bin\Debug\ChatimeDB_log.ldf
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini Project - Chatime V.5\Mini Project - Chatime\bin\Debug\Mini Project - Chatime.exe.config
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini Project - Chatime V.5\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.exe
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini Project - Chatime V.5\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.pdb
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini Project - Chatime V.5\Mini Project - Chatime\bin\Debug\ChatimeDB.mdf
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini Project - Chatime V.5\Mini Project - Chatime\bin\Debug\ChatimeDB_log.ldf
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini Project - Chatime V.5\Mini Project - Chatime\bin\Debug\Mini Project - Chatime.exe
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini Project - Chatime V.5\Mini Project - Chatime\bin\Debug\Mini Project - Chatime.pdb
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini Project - Chatime V.5\Mini Project - Chatime\bin\Debug\itextsharp.dll
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini Project - Chatime V.5\Mini Project - Chatime\bin\Debug\itextsharp.pdfa.dll
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini Project - Chatime V.5\Mini Project - Chatime\bin\Debug\itextsharp.xtra.dll
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini Project - Chatime V.5\Mini Project - Chatime\bin\Debug\itextsharp.xml
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini Project - Chatime V.5\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini Project - Chatime V.5\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmCashier.resources
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini Project - Chatime V.5\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmLogin.resources
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini Project - Chatime V.5\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini Project - Chatime V.5\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.Receiptcs.resources
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini Project - Chatime V.5\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmSplashScreen.resources
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini Project - Chatime V.5\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.csproj.GenerateResource.Cache
