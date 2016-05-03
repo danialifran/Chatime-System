@@ -139,6 +139,6 @@ C:\Users\danialifran\Documents\Visual Studio 2013\Projects\AD\Mini-Project-Chati
 \\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini Project - Chatime V.5\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmCashier.resources
 \\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini Project - Chatime V.5\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmLogin.resources
 \\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini Project - Chatime V.5\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.Properties.Resources.resources
-\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini Project - Chatime V.5\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.Receiptcs.resources
 \\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini Project - Chatime V.5\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmSplashScreen.resources
 \\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini Project - Chatime V.5\Mini Project - Chatime\obj\Debug\Mini Project - Chatime.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2013\Projects\AP\Mini Project - Chatime V.5\Mini Project - Chatime\obj\Debug\Mini_Project___Chatime.frmRegistration.resources

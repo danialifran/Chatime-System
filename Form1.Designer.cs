@@ -143,6 +143,8 @@
             this.lblPayment = new System.Windows.Forms.Label();
             this.lblBalance1 = new System.Windows.Forms.Label();
             this.txtPay = new System.Windows.Forms.TextBox();
+            this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
             this.btnChocolatea1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
@@ -1646,6 +1648,25 @@
             this.txtPay.Size = new System.Drawing.Size(114, 31);
             this.txtPay.TabIndex = 77;
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(1954, 1405);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(268, 71);
+            this.button1.TabIndex = 78;
+            this.button1.Text = "Register";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(2228, 1405);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(266, 71);
+            this.button2.TabIndex = 79;
+            this.button2.Text = "Report";
+            this.button2.UseVisualStyleBackColor = true;
+            // 
             // frmCashier
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
@@ -1654,6 +1675,8 @@
             this.AutoSize = true;
             this.BackColor = System.Drawing.Color.WhiteSmoke;
             this.ClientSize = new System.Drawing.Size(1388, 765);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.txtPay);
             this.Controls.Add(this.lblBalance1);
             this.Controls.Add(this.lblPayment);
@@ -1841,6 +1864,8 @@
         private System.Windows.Forms.Label lblPayment;
         private System.Windows.Forms.Label lblBalance1;
         private System.Windows.Forms.TextBox txtPay;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
     }
 }
 
