@@ -30,6 +30,7 @@
         {
             this.listViewDisplay = new System.Windows.Forms.ListView();
             this.btnDisplay = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // listViewDisplay
@@ -42,13 +43,23 @@
             // 
             // btnDisplay
             // 
-            this.btnDisplay.Location = new System.Drawing.Point(83, 662);
+            this.btnDisplay.Location = new System.Drawing.Point(83, 652);
             this.btnDisplay.Name = "btnDisplay";
-            this.btnDisplay.Size = new System.Drawing.Size(157, 59);
+            this.btnDisplay.Size = new System.Drawing.Size(268, 71);
             this.btnDisplay.TabIndex = 1;
-            this.btnDisplay.Text = "View Users";
+            this.btnDisplay.Text = "Display";
             this.btnDisplay.UseVisualStyleBackColor = true;
             this.btnDisplay.Click += new System.EventHandler(this.btnDisplay_Click);
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(357, 652);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(268, 71);
+            this.button1.TabIndex = 79;
+            this.button1.Text = "Register";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // frmViewUsers
             // 
@@ -57,6 +68,7 @@
             this.AutoScroll = true;
             this.AutoSize = true;
             this.ClientSize = new System.Drawing.Size(1388, 765);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.btnDisplay);
             this.Controls.Add(this.listViewDisplay);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
@@ -71,5 +83,6 @@
 
         private System.Windows.Forms.ListView listViewDisplay;
         private System.Windows.Forms.Button btnDisplay;
+        private System.Windows.Forms.Button button1;
     }
 }

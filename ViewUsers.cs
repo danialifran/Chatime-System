@@ -34,16 +34,16 @@ namespace Mini_Project___Chatime
             listViewDisplay.View = View.Details;
             listViewDisplay.GridLines = true;
             listViewDisplay.Clear();
-
-            listViewDisplay.Columns.Add("user_id.", 30);
-            listViewDisplay.Columns.Add("user_name", 160);
-            listViewDisplay.Columns.Add("user_type", 90);
-            listViewDisplay.Columns.Add("login", 100);
-            listViewDisplay.Columns.Add("password", 160);
+            listViewDisplay.Columns.Add("No.", 30);
+            listViewDisplay.Columns.Add("User ID.", 100);
+            listViewDisplay.Columns.Add("Name", 160);
+            listViewDisplay.Columns.Add("Type", 90);
+            listViewDisplay.Columns.Add("Username", 100);
+            listViewDisplay.Columns.Add("Password", 160);
 
             try
             {
-                this.Text = "Display Students";
+                this.Text = "View Chatime POS-Users";
 
                 //open connection
 
@@ -57,11 +57,12 @@ namespace Mini_Project___Chatime
                 {
                     ListViewItem lvi = new ListViewItem();
                     lvi.Text = count.ToString();
-                    lvi.SubItems.Add(rdr.GetString(0)); //Name
-                    lvi.SubItems.Add(rdr.GetString(1)); //StudentID
-                    lvi.SubItems.Add(rdr.GetString(2)); //ICNumber
-                    lvi.SubItems.Add(rdr.GetString(3)); //Email
-                    lvi.SubItems.Add(rdr.GetString(4)); //StateCode
+                    lvi.SubItems.Add(rdr.GetString(0)); //No
+                    lvi.SubItems.Add(rdr.GetString(1)); //id
+                    lvi.SubItems.Add(rdr.GetString(2)); //name
+                    lvi.SubItems.Add(rdr.GetString(3)); //type
+                    lvi.SubItems.Add(rdr.GetString(4));//username
+                    lvi.SubItems.Add(rdr.GetString(4)); //password
                     listViewDisplay.Items.Add(lvi);
                     count++;
                 }
@@ -75,6 +76,12 @@ namespace Mini_Project___Chatime
             {
                 conn.Close();
             }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            frmRegistration frmRegistration = new frmRegistration();
+            frmRegistration.Show();
         }
     }
 }
