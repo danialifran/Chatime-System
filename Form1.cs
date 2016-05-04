@@ -3954,8 +3954,8 @@ new Font("Times New Roman", 12, FontStyle.Regular), Brushes.Black, 20, 100);
 
         private void button1_Click(object sender, EventArgs e)
         {
-            frmRegistration frmRegistration = new frmRegistration();
-            frmRegistration.Show();
+            frmViewUsers frmViewUsers = new frmViewUsers();
+            frmViewUsers.Show();
         }
 
       }
