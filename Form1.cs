@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Microsoft.VisualBasic;
 using System.Drawing.Printing;
+using System.Data.SqlClient;
 
 namespace Mini_Project___Chatime
 {
@@ -21,12 +22,25 @@ namespace Mini_Project___Chatime
         }
         
         
-        public frmCashier(String username, int id)
+        public frmCashier(string name)
         {
+
             InitializeComponent();
-            this.username = username;
-            this.id = id;
-            lblCashier.Text = "Casheir : "  + username;
+
+
+            // Create connection SQL Server 2012 
+            SqlConnection conn = new SqlConnection(@"Data Source =(LocalDB)\v11.0; 
+                            AttachDbFileName = |DataDirectory|ChatimeDB.mdf; 
+                            Integrated Security=true;");
+
+            conn.Open();
+
+            string userid = "select user_id from users where login='" + name + "'";
+            SqlCommand checkid = new SqlCommand(userid, conn);
+            string id = checkid.ExecuteScalar().ToString().Replace(" ", "");
+
+            this.name = name;
+            lblCashier.Text = "Casheir : "  + name;
             lblStaffId.Text = "Casheir : " + id;
         }
 

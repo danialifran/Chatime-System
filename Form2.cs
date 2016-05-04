@@ -42,8 +42,8 @@ namespace Mini_Project___Chatime
 
                 if(password == txtPassword.Text)
                 {
-                    //Session ["New"] = txtUsername.Text;
-                    frmCashier frmCashier = new frmCashier();
+                    string name = txtUsername.Text;
+                    frmCashier frmCashier = new frmCashier(name);
                     frmCashier.Show();
                     this.Hide();
                 }
