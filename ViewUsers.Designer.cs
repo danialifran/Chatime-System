@@ -41,9 +41,9 @@
             // 
             // listViewDisplay
             // 
-            this.listViewDisplay.Location = new System.Drawing.Point(83, 71);
+            this.listViewDisplay.Location = new System.Drawing.Point(45, 125);
             this.listViewDisplay.Name = "listViewDisplay";
-            this.listViewDisplay.Size = new System.Drawing.Size(1232, 532);
+            this.listViewDisplay.Size = new System.Drawing.Size(2201, 532);
             this.listViewDisplay.TabIndex = 0;
             this.listViewDisplay.UseCompatibleStateImageBehavior = false;
             // 
@@ -75,6 +75,7 @@
             this.button2.TabIndex = 80;
             this.button2.Text = "Report";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // btnRegProduct
             // 
@@ -89,7 +90,7 @@
             // 
             this.groupBox1.Controls.Add(this.btnRegProduct);
             this.groupBox1.Controls.Add(this.btnRegUsers);
-            this.groupBox1.Location = new System.Drawing.Point(702, 630);
+            this.groupBox1.Location = new System.Drawing.Point(1151, 703);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(613, 163);
             this.groupBox1.TabIndex = 82;
@@ -100,7 +101,7 @@
             // 
             this.groupBox2.Controls.Add(this.button2);
             this.groupBox2.Controls.Add(this.btnDisplay);
-            this.groupBox2.Location = new System.Drawing.Point(83, 630);
+            this.groupBox2.Location = new System.Drawing.Point(532, 703);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(593, 163);
             this.groupBox2.TabIndex = 83;
@@ -113,14 +114,15 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoScroll = true;
             this.AutoSize = true;
-            this.ClientSize = new System.Drawing.Size(1388, 805);
+            this.ClientSize = new System.Drawing.Size(2290, 913);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.listViewDisplay);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Name = "frmViewUsers";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "Admin Account";
+            this.Load += new System.EventHandler(this.frmViewUsers_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox2.ResumeLayout(false);
             this.ResumeLayout(false);
